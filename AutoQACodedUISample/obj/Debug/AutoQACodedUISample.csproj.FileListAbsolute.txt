@@ -1,0 +1,6 @@
+D:\WORK\Automation\C#_projects\AutoQACodedUISample\AutoQACodedUISample\bin\Debug\AutoQACodedUISample.dll
+D:\WORK\Automation\C#_projects\AutoQACodedUISample\AutoQACodedUISample\bin\Debug\AutoQACodedUISample.pdb
+D:\WORK\Automation\C#_projects\AutoQACodedUISample\AutoQACodedUISample\obj\Debug\AutoQACodedUISample.csprojResolveAssemblyReference.cache
+D:\WORK\Automation\C#_projects\AutoQACodedUISample\AutoQACodedUISample\obj\Debug\AutoQACodedUISample.dll
+D:\WORK\Automation\C#_projects\AutoQACodedUISample\AutoQACodedUISample\obj\Debug\AutoQACodedUISample.pdb
+D:\WORK\Automation\C#_projects\AutoQACodedUISample\AutoQACodedUISample\bin\Debug\data.csv
